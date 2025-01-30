@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akchat283&label=Profile%20views&color=0e75b6&style=flat" alt="akchat283" /> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms in Java**
+- 🌱 I’m currently learning **Data Structure and Algorithms in C++**
 
 - 👨‍💻 All of my projects are available at [https://akchat283.github.io/Portfolio-Website/](https://akchat283.github.io/Portfolio-Website/)
 
